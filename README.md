@@ -1,5 +1,8 @@
 # 42_ft_server
 
+![Demo image](https://github.com/karisti/42_ft_server/blob/master/demo1.png?raw=true)
+
+
 ## Description
 This project is an introduction to system administration. We will discover the "docker" technology and use it to install a complete web server. This server will run multiples services: Wordpress, phpMyAdmin, and a SQL database. Docker-compose and public docker images are not allowed. [inception](https://github.com/karisti/42_inception "inception") is the project that follows this one.
 
